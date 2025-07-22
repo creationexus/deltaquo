@@ -1,0 +1,21 @@
+.appbar {
+    display: flex;
+    justify-content: space-between;
+}
+.plus{
+	color:#FFF;
+	box-shadow: inset -3px 6px 1px 0px rgba(225,194,0,1);
+	border-radius: 50%;
+}
+.plus:hover{
+    box-shadow: inset -3px 6px 1px 0px rgba(255,224,0,1);
+}
+
+#flagsselect{
+}
+
+#flagsselect button{
+	border-top: none;
+    border-left: none;
+}
+

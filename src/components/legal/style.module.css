@@ -1,0 +1,11 @@
+.zen {
+	text-align:center;
+}
+.doc {
+	margin:0 auto;
+	padding:1em;
+	text-align:justify;
+	word-break:break-word;
+	font-family:'Titillium Web',sans-serif;
+	max-width:800px;
+}
